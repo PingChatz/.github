@@ -1,31 +1,49 @@
 # Welcome to Our Messaging App Project 🚀
 
-We are building a **messaging app** using **Spring Boot (backend)** and **Java Swing (frontend)**, with a focus on **Clean Architecture** principles.
+We are developing a **messaging application** that leverages **Spring Boot** for the backend and **Java Swing** for the frontend, adhering to **Clean Architecture** principles to ensure a robust and maintainable system.
 
 ---
 
 ## 🔧 Technologies We Use
-- Backend: **Spring Boot**
-- Frontend: **Java Swing**
-- Architecture: **Clean Architecture**
+
+- **Backend**: [Spring Boot](https://spring.io/projects/spring-boot)
+- **Frontend**: [Java Swing](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
+- **Architecture**: [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ---
 
 ## 🌟 Meet Our Team
 
-| ![Member 1](https://your-org-assets.com/member1.jpg) | ![Member 2](https://your-org-assets.com/member2.jpg) | ![Member 3](https://your-org-assets.com/member3.jpg) |
-|:--:|:--:|:--:|
-| **John Doe** | **Jane Smith** | **Alex Johnson** |
-| [GitHub](https://github.com/johndoe) | [GitHub](https://github.com/janesmith) | [GitHub](https://github.com/alexjohnson) |
-| [LinkedIn](https://linkedin.com/in/johndoe) | [LinkedIn](https://linkedin.com/in/janesmith) | [Twitter](https://twitter.com/alexjohnson) |
+Our project is made possible by the dedication and expertise of the following team members:
 
-| ![Member 4](https://your-org-assets.com/member4.jpg) | ![Member 5](https://your-org-assets.com/member5.jpg) | ![Member 6](https://your-org-assets.com/member6.jpg) |
-|:--:|:--:|:--:|
-| **Emily Davis** | **Michael Lee** | **Sarah Kim** |
-| [GitHub](https://github.com/emilydavis) | [GitHub](https://github.com/michaellee) | [GitHub](https://github.com/sarahkim) |
-| [LinkedIn](https://linkedin.com/in/emilydavis) | [Twitter](https://twitter.com/michaellee) | [LinkedIn](https://linkedin.com/in/sarahkim) |
+### Ali Rahbar
+- **GitHub**: [crypto-a](https://github.com/crypto-a)  
+- **LinkedIn**: [Ali Rahbar](https://www.linkedin.com/in/ali-rahbar/)  
 
+### Wilton Miller
+- **GitHub**: [wiltonmiller](https://github.com/wiltonmiller)  
+- **LinkedIn**: [Wilton Miller](https://www.linkedin.com/in/wilton-miller/)  
+
+### Matteo Gentili
+- **GitHub**: [MatteoGentili24](https://github.com/MatteoGentili24)  
+- **LinkedIn**: [Matteo Gentili](https://www.linkedin.com/in/matteo-gentili/)  
+
+### Benedict Cummins-Mburu
+- **GitHub**: [bennypk1](https://github.com/bennypk1)  
+- **LinkedIn**: [Benedict Cummins-Mburu](https://www.linkedin.com/in/benedict-cummins-mburu/)  
+
+### Benjamin Gavriely
+- **GitHub**: [Benjamin-Uoft](https://github.com/Benjamin-Uoft)  
+- **LinkedIn**: [Benjamin Gavriely](https://www.linkedin.com/in/benjamin-gavriely/)  
+
+### Robert Reder
+- **GitHub**: [Roppax](https://github.com/Roppax)  
+- **LinkedIn**: [Robert Reder](https://www.linkedin.com/in/robert-reder/)  
 ---
 
 💬 **Want to connect?**  
-Feel free to reach out to us at [contact@yourorganization.com](mailto:contact@yourorganization.com).
+Feel free to reach out to us at [ali.rahbar@mail.utoronto.ca](mailto:ali.rahbar@mail.utoronto.ca).
+
+---
+
+*Note: This project is part of the CSC207: Software Design course at the University of Toronto.* 
